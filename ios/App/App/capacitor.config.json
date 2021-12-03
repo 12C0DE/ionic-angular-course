@@ -2,8 +2,5 @@
 	"appId": "com.ionic.angular.course.12h",
 	"appName": "ionic-angular-course",
 	"webDir": "www",
-	"bundledWebRuntime": false,
-	"server": {
-		"url": "http://localhost:8101"
-	}
+	"bundledWebRuntime": false
 }
